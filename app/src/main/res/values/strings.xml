@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DCS</string>
+
+    <array name="stopping">
+        <item>Redhills</item>
+        <item>airport</item>
+        <item>CMBT</item>
+        <item>thabharam</item>
+    </array>
+
+</resources>
